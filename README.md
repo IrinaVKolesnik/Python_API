@@ -1,4 +1,8 @@
-
+# Observable Trends:
+1. Trend 1
+1. Trend 2
+1. Trend 3
+1. Trend 4
 
 ```python
 # WeatherPy 3/30/2018
